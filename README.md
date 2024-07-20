@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ThePancakeDevs
+- 👀 I’m interested in development
+- 🌱 I’m currently learning JS & Python!
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me contact@pancake.ca
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a real person, trust me.
